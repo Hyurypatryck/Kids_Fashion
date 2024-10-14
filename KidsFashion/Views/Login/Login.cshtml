@@ -1,0 +1,34 @@
+﻿@model KidsFashion.Models.LoginViewModel
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form id="account" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="usuario" class="form-label"></label>
+        <input asp-for="usuario" class="form-control" autocomplete="usuario" aria-required="true" placeholder="exemplo@email.com" />
+        <span asp-validation-for="usuario" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="usuario" class="form-label"></label>
+        <input asp-for="usuario" class="form-control" autocomplete="current-password" aria-required="true" />
+        <span asp-validation-for="usuario" class="text-danger"></span>
+    </div>
+
+    <div class="d-grid gap-2">
+        <button type="submit" class="btn btn-success">Entrar</button>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+

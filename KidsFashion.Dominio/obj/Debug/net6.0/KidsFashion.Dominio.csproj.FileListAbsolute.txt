@@ -1,0 +1,11 @@
+C:\CELSO\KidsFashion\KidsFashion.Dominio\bin\Debug\net6.0\KidsFashion.Dominio.deps.json
+C:\CELSO\KidsFashion\KidsFashion.Dominio\bin\Debug\net6.0\KidsFashion.Dominio.dll
+C:\CELSO\KidsFashion\KidsFashion.Dominio\bin\Debug\net6.0\KidsFashion.Dominio.pdb
+C:\CELSO\KidsFashion\KidsFashion.Dominio\obj\Debug\net6.0\KidsFashion.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CELSO\KidsFashion\KidsFashion.Dominio\obj\Debug\net6.0\KidsFashion.Dominio.AssemblyInfoInputs.cache
+C:\CELSO\KidsFashion\KidsFashion.Dominio\obj\Debug\net6.0\KidsFashion.Dominio.AssemblyInfo.cs
+C:\CELSO\KidsFashion\KidsFashion.Dominio\obj\Debug\net6.0\KidsFashion.Dominio.csproj.CoreCompileInputs.cache
+C:\CELSO\KidsFashion\KidsFashion.Dominio\obj\Debug\net6.0\KidsFashion.Dominio.dll
+C:\CELSO\KidsFashion\KidsFashion.Dominio\obj\Debug\net6.0\refint\KidsFashion.Dominio.dll
+C:\CELSO\KidsFashion\KidsFashion.Dominio\obj\Debug\net6.0\KidsFashion.Dominio.pdb
+C:\CELSO\KidsFashion\KidsFashion.Dominio\obj\Debug\net6.0\ref\KidsFashion.Dominio.dll

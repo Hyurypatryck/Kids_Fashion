@@ -1,0 +1,17 @@
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\bin\Debug\net6.0\KidsFashion.Persistencia.deps.json
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\bin\Debug\net6.0\KidsFashion.Persistencia.runtimeconfig.json
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\bin\Debug\net6.0\KidsFashion.Persistencia.dll
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\bin\Debug\net6.0\KidsFashion.Persistencia.pdb
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\bin\Debug\net6.0\KidsFashion.Dominio.dll
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\bin\Debug\net6.0\KidsFashion.Dominio.pdb
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\KidsFashion.Persistencia.csproj.AssemblyReference.cache
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\KidsFashion.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\KidsFashion.Persistencia.AssemblyInfoInputs.cache
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\KidsFashion.Persistencia.AssemblyInfo.cs
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\KidsFashion.Persistencia.csproj.CoreCompileInputs.cache
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\KidsFash.10315B6A.Up2Date
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\KidsFashion.Persistencia.dll
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\refint\KidsFashion.Persistencia.dll
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\KidsFashion.Persistencia.pdb
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\KidsFashion.Persistencia.genruntimeconfig.cache
+C:\CELSO\KidsFashion\KidsFashion.Persistencia\obj\Debug\net6.0\ref\KidsFashion.Persistencia.dll
