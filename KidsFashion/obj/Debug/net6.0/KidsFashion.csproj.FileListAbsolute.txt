@@ -55,6 +55,7 @@ C:\CELSO\KidsFashion\KidsFashion\obj\Debug\net6.0\KidsFashion.csproj.CoreCompile
 C:\CELSO\KidsFashion\KidsFashion\obj\Debug\net6.0\KidsFashion.MvcApplicationPartsAssemblyInfo.cache
 C:\CELSO\KidsFashion\KidsFashion\obj\Debug\net6.0\KidsFashion.RazorAssemblyInfo.cache
 C:\CELSO\KidsFashion\KidsFashion\obj\Debug\net6.0\KidsFashion.RazorAssemblyInfo.cs
+C:\CELSO\KidsFashion\KidsFashion\obj\Debug\net6.0\KidsFashion.sourcelink.json
 C:\CELSO\KidsFashion\KidsFashion\obj\Debug\net6.0\staticwebassets.build.json
 C:\CELSO\KidsFashion\KidsFashion\obj\Debug\net6.0\staticwebassets.development.json
 C:\CELSO\KidsFashion\KidsFashion\obj\Debug\net6.0\staticwebassets\msbuild.KidsFashion.Microsoft.AspNetCore.StaticWebAssets.props

@@ -10,6 +10,7 @@ C:\CELSO\KidsFashion\KidsFashion.Servicos\obj\Debug\net6.0\KidsFashion.Servicos.
 C:\CELSO\KidsFashion\KidsFashion.Servicos\obj\Debug\net6.0\KidsFashion.Servicos.AssemblyInfoInputs.cache
 C:\CELSO\KidsFashion\KidsFashion.Servicos\obj\Debug\net6.0\KidsFashion.Servicos.AssemblyInfo.cs
 C:\CELSO\KidsFashion\KidsFashion.Servicos\obj\Debug\net6.0\KidsFashion.Servicos.csproj.CoreCompileInputs.cache
+C:\CELSO\KidsFashion\KidsFashion.Servicos\obj\Debug\net6.0\KidsFashion.Servicos.sourcelink.json
 C:\CELSO\KidsFashion\KidsFashion.Servicos\obj\Debug\net6.0\KidsFash.03F1134B.Up2Date
 C:\CELSO\KidsFashion\KidsFashion.Servicos\obj\Debug\net6.0\KidsFashion.Servicos.dll
 C:\CELSO\KidsFashion\KidsFashion.Servicos\obj\Debug\net6.0\refint\KidsFashion.Servicos.dll

@@ -1,0 +1,58 @@
+# Ignore .NET Core project files
+bin/
+obj/
+!.gitkeep
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated/
+Backup/
+_ReSharper.Caches/
+
+# Log files
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+# NuGet Symbol Packages
+*.snupkg
+# NuGet Dependencies
+packages/
+# Directories build by NuGet
+.nuget/
+
+# Entity Framework migrations
+migrations/
+
+# Mac files
+*.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Visual Studio specific folders/files
+.vscode/
+.vs/
+.idea/
+*.code-workspace
+
+# Rider files
+.idea/
+
+# Local history for JetBrains IDE
+.localhistory/
+
+# Configuration files and environment secrets
+appsettings.json
+appsettings.*.json

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\CELSO\\KidsFashion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B9B60A2-3B2A-4F24-88B5-EE6EDF223CE0}|KidsFashion.Dominio\\KidsFashion.Dominio.csproj|c:\\celso\\kidsfashion\\kidsfashion.dominio\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9B60A2-3B2A-4F24-88B5-EE6EDF223CE0}|KidsFashion.Dominio\\KidsFashion.Dominio.csproj|solutionrelative:kidsfashion.dominio\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B60A2-3B2A-4F24-88B5-EE6EDF223CE0}|KidsFashion.Dominio\\KidsFashion.Dominio.csproj|c:\\celso\\kidsfashion\\kidsfashion.dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9B60A2-3B2A-4F24-88B5-EE6EDF223CE0}|KidsFashion.Dominio\\KidsFashion.Dominio.csproj|solutionrelative:kidsfashion.dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B60A2-3B2A-4F24-88B5-EE6EDF223CE0}|KidsFashion.Dominio\\KidsFashion.Dominio.csproj|c:\\celso\\kidsfashion\\kidsfashion.dominio\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9B60A2-3B2A-4F24-88B5-EE6EDF223CE0}|KidsFashion.Dominio\\KidsFashion.Dominio.csproj|solutionrelative:kidsfashion.dominio\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F171560-66B0-40A6-AD75-DB2417F427CC}|KidsFashion\\KidsFashion.csproj|c:\\celso\\kidsfashion\\kidsfashion\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F171560-66B0-40A6-AD75-DB2417F427CC}|KidsFashion\\KidsFashion.csproj|solutionrelative:kidsfashion\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +74,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\CELSO\\KidsFashion\\KidsFashion.Dominio\\Produto.cs",
+              "RelativeDocumentMoniker": "KidsFashion.Dominio\\Produto.cs",
+              "ToolTip": "C:\\CELSO\\KidsFashion\\KidsFashion.Dominio\\Produto.cs",
+              "RelativeToolTip": "KidsFashion.Dominio\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:46:05.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\CELSO\\KidsFashion\\KidsFashion.Dominio\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "KidsFashion.Dominio\\Fornecedor.cs",
+              "ToolTip": "C:\\CELSO\\KidsFashion\\KidsFashion.Dominio\\Fornecedor.cs",
+              "RelativeToolTip": "KidsFashion.Dominio\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:45:23.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\CELSO\\KidsFashion\\KidsFashion.Dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "KidsFashion.Dominio\\Cliente.cs",
+              "ToolTip": "C:\\CELSO\\KidsFashion\\KidsFashion.Dominio\\Cliente.cs",
+              "RelativeToolTip": "KidsFashion.Dominio\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:44:06.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FornecedorViewModel.cs",
               "DocumentMoniker": "C:\\CELSO\\KidsFashion\\KidsFashion\\Models\\FornecedorViewModel.cs",
               "RelativeDocumentMoniker": "KidsFashion\\Models\\FornecedorViewModel.cs",
@@ -70,12 +121,11 @@
               "RelativeToolTip": "KidsFashion\\Models\\FornecedorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T18:54:58.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T18:54:58.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\CELSO\\KidsFashion\\KidsFashion\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "KidsFashion\\Controllers\\CategoriaController.cs",
@@ -88,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\CELSO\\KidsFashion\\KidsFashion\\Views\\Fornecedor\\Edit.cshtml",
               "RelativeDocumentMoniker": "KidsFashion\\Views\\Fornecedor\\Edit.cshtml",
@@ -96,25 +146,24 @@
               "RelativeToolTip": "KidsFashion\\Views\\Fornecedor\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T18:47:34.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T18:47:34.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FornecedorController.cs",
               "DocumentMoniker": "C:\\CELSO\\KidsFashion\\KidsFashion\\Controllers\\FornecedorController.cs",
               "RelativeDocumentMoniker": "KidsFashion\\Controllers\\FornecedorController.cs",
               "ToolTip": "C:\\CELSO\\KidsFashion\\KidsFashion\\Controllers\\FornecedorController.cs",
               "RelativeToolTip": "KidsFashion\\Controllers\\FornecedorController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAEwCsAAAAJAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T18:37:14.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RepositorioFornecedor.cs",
               "DocumentMoniker": "C:\\CELSO\\KidsFashion\\KidsFashion.Persistencia\\Repositorios\\RepositorioFornecedor.cs",
               "RelativeDocumentMoniker": "KidsFashion.Persistencia\\Repositorios\\RepositorioFornecedor.cs",
