@@ -124,6 +124,40 @@ namespace KidsFashion.Persistencia.Migrations
                     b.ToTable("Municipio", (string)null);
                 });
 
+            modelBuilder.Entity("KidsFashion.Dominio.Produto", b =>
+                {
+                    b.Property<int?>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("Id"), 1L, 1);
+
+                    b.Property<int>("Categoria_Id")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Descricao")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(250)");
+
+                    b.Property<int>("Fornecedor_Id")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<int>("Quantidade")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Categoria_Id");
+
+                    b.HasIndex("Fornecedor_Id");
+
+                    b.ToTable("Produto", (string)null);
+                });
+
             modelBuilder.Entity("KidsFashion.Dominio.Endereco", b =>
                 {
                     b.HasOne("KidsFashion.Dominio.Municipio", "Municipio")
@@ -144,6 +178,25 @@ namespace KidsFashion.Persistencia.Migrations
                         .IsRequired();
 
                     b.Navigation("Endereco");
+                });
+
+            modelBuilder.Entity("KidsFashion.Dominio.Produto", b =>
+                {
+                    b.HasOne("KidsFashion.Dominio.Categoria", "Categoria")
+                        .WithMany()
+                        .HasForeignKey("Categoria_Id")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.HasOne("KidsFashion.Dominio.Fornecedor", "Fornecedor")
+                        .WithMany()
+                        .HasForeignKey("Fornecedor_Id")
+                        .OnDelete(DeleteBehavior.NoAction)
+                        .IsRequired();
+
+                    b.Navigation("Categoria");
+
+                    b.Navigation("Fornecedor");
                 });
 #pragma warning restore 612, 618
         }

@@ -27,12 +27,14 @@ namespace KidsFashion.Persistencia
             modelBuilder.ApplyConfiguration(new FornecedorMap());
             modelBuilder.ApplyConfiguration(new EnderecoMap());
             modelBuilder.ApplyConfiguration(new MunicipioMap());
+            modelBuilder.ApplyConfiguration(new ProdutoMap());  
         }
 
         public DbSet<Categoria> Categoria { get; set; }
         public DbSet<Fornecedor> Fornecedor { get; set; }
         public DbSet<Endereco> Endereco { get; set; }
         public DbSet<Municipio> Municipio { get; set; }
+        public DbSet<Produto> Produto { get; set; }
 
 
 
